@@ -1,3 +1,2 @@
-import x from './x.js'
-console.log(x)
-console.log("xxxxxxxxxxxxxxxxxxxxxxx")
+import x from './x.js';
+import css from './x.css';
